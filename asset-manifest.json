@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/getbozak/static/css/main.1533ca87.chunk.css",
+    "main.js": "/getbozak/static/js/main.b93aba7a.chunk.js",
+    "main.js.map": "/getbozak/static/js/main.b93aba7a.chunk.js.map",
+    "runtime~main.js": "/getbozak/static/js/runtime~main.3ca43ead.js",
+    "runtime~main.js.map": "/getbozak/static/js/runtime~main.3ca43ead.js.map",
+    "static/js/2.e5438a99.chunk.js": "/getbozak/static/js/2.e5438a99.chunk.js",
+    "static/js/2.e5438a99.chunk.js.map": "/getbozak/static/js/2.e5438a99.chunk.js.map",
+    "index.html": "/getbozak/index.html",
+    "precache-manifest.23e0c8bae7853e1c3e13e36013ede522.js": "/getbozak/precache-manifest.23e0c8bae7853e1c3e13e36013ede522.js",
+    "service-worker.js": "/getbozak/service-worker.js",
+    "static/css/main.1533ca87.chunk.css.map": "/getbozak/static/css/main.1533ca87.chunk.css.map"
+  }
+}
